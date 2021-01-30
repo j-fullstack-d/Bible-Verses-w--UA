@@ -1,0 +1,10 @@
+.main {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(180, 100%, 25%);
+}
+
+.div__underline--white {
+  height: 35px;
+  width: 100%;
+  background-color: hsl(0, 0%, 100%);
+}
