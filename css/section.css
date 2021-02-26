@@ -6,19 +6,28 @@
   text-align: left;
 }
 
-.section--h1 {
+.section__h1 {
   padding: 15px;
   text-align: center;
   font-size: 22px;
   color: hsl(180, 100%, 25%);
 }
 
-.section--paragraph {
+.section__paragraph {
   font-size: 20px;
   padding: 5px;
 }
 
-.section--paragraph-padding {
+.section__button--underscore {
+  color:hsl(0, 0%, 100%);
+  background-color: hsl(180, 100%, 25%);
+  border-style: none;
+  font-size: 14px;
+  padding: 8px;
+  margin: 5px;
+}
+
+.section__paragraph--padding {
   padding: 20px;
 }
 
